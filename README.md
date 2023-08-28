@@ -8,6 +8,7 @@ npm install
 ```
 
 <h3>Compiles and hot-reloads for development</h3>
-```js
+
+```Js
 nodemon
 ```
